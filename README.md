@@ -11,7 +11,7 @@ MindMatch is an interactive memory game built with HTML, CSS, and JavaScript. Te
 
 ## Screenshots
 
-![Game Screenshot]()
+![Game Screenshot](IMG_20240201_200942.jpg)
 
 ## How to Play
 
