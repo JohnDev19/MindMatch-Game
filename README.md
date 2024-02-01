@@ -15,7 +15,7 @@ MindMatch is an interactive memory game built with HTML, CSS, and JavaScript. Te
 
 ## How to Play
 
-1. Open [] in your web browser.
+1. Open (https://johndev19.github.io/MindMatch-Game/) in your web browser.
 2. Click on cards to flip them and find matching pairs.
 3. Try to match all pairs as quickly as possible.
 
